@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development to build new things using Python and JavaScript
 - 💞️ I’m looking to start a position as a software developer
 - 📫 How to reach me ganta.durgarao304@gmail.com
+- :gear: `ReactJs` `NodeJs` `VueJs` `Django` `MySql` `Mongodb`
 
 <!---
 Durgarao310/Durgarao310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
