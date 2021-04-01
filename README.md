@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Durgarao310
-- 👀 I’m interested to build new things using Python and JavaScript
-- 🌱 I’m currently learning aws
+- 👀 I’m interested in web development to build new things using Python and JavaScript
 - 💞️ I’m looking to start a position as a software developer
 - 📫 How to reach me ganta.durgarao304@gmail.com
 
