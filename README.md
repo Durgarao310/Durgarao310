@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Durgarao310
-- 👀 I’m interested in web development to build new things using Python and JavaScript
-- 💞️ I’m looking to start a position as a software developer
+- 💞️ Python and JavaScript
 - 📫 How to reach me ganta.durgarao304@gmail.com
 - :gear: `ReactJs` `React Native` `NodeJs` `VueJs` `Django` `MySql` `Mongodb`
 
