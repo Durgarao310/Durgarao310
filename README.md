@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Durgarao310
-- 💞️ Python and JavaScript
+- 💞️ JavaScript and Python
 - 📫 How to reach me gantadurgarao304@gmail.com
-- :gear: `ReactJs` `React Native` `NodeJs` `VueJs` `Django` `MySql` `Mongodb` `Nextjs`
+- :gear: `ReactJs` `Nodejs` `Mongodb` `Nextjs` `Typescript` `React Native` `VueJs` `Django` `MySql` 
 
 <!---
 Durgarao310/Durgarao310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
