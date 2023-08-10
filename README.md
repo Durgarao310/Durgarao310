@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Durgarao310
+- 👋 Hi, I’m Durgarao Ganta
 - 💞️ JavaScript and Python
 - 📫 How to reach me gantadurgarao304@gmail.com
 - :gear: `ReactJs` `Nodejs` `Mongodb` `Nextjs` `Typescript` `React Native` `Django` `MySql` 
