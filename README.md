@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Durgarao Ganta
 - 💞️ JavaScript and Python
-- 📫 How to reach me hi@
-- durga.dev
+- 📫 How to reach me hi@durga.dev
 - :gear: `ReactJs` `Nodejs` `Mongodb` `Nextjs` `Typescript` `React Native` `Django` `MySql` `Firebase` `AWS`
 
 <!---
